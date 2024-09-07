@@ -1,1 +1,1 @@
-Extracts username and domainfrom a given email address.
+Extracts username and domain from a given email address.
